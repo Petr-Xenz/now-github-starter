@@ -3,6 +3,6 @@
   "name": "Test",
   "builds": 
   [
-    { "src": "*.html", "use": "@now/OLHelp" }
+    { "src": "*.html", "use": "@now/static" }
   ]
 }
