@@ -1,1 +1,8 @@
-{}
+{
+  "version": 2,
+  "name": "OLHelp",
+  "builds": 
+  [
+    { "src": "*.html", "use": "@now/OLHelp" }
+  ]
+}
